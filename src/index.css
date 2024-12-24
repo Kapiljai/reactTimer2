@@ -1,0 +1,14 @@
+
+
+.text-usd{
+  color: rgb(175, 216, 125);
+  line-height: 2;
+  letter-spacing: .1rem;
+  font-family: sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.text-usd:hover {
+  transform: translate(10px, -5px);
+}
